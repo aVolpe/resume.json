@@ -1,0 +1,19 @@
+{
+  "name": "cv-json",
+  "version": "1.0.0",
+  "description": "CV of Arturo Volpe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "html": "node index.js > resume.html"
+  },
+  "author": "Arturo Volpe <arturo@volpe.com.py>",
+  "license": "MIT",
+  "dependencies": {
+    "jsonresume-theme-class": "^0.1.2",
+    "jsonresume-theme-eloquent": "^4.1.0",
+    "jsonresume-theme-kendall": "^0.1.19",
+    "jsonresume-theme-paper": "^0.3.5",
+    "resume-cli": "^1.1.2"
+  }
+}

@@ -1,0 +1,210 @@
+{
+    "basics": {
+        "name": "Arturo Volpe",
+        "label": "Software engineer",
+        "picture": "https://avolpe.github.io/static/img/avatar.jpg",
+        "email": [ "arturovolpe@gmail.com" ],
+        "phone": "+595972105788",
+        "website": "https://www.volpe.com.py",
+        "summary": "Software engineer with a special taste in System Architecture, DevOps, Continious Integration/Delivery, fullstack developend and OpenSource projects",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "Asunción",
+            "countryCode": "PY",
+            "region": ""
+        },
+        "profiles": [{
+            "network": "github",
+            "username": "avolpe",
+            "url": "https://www.github.com/avolpe"
+        }, {
+        "network": "gitlab",
+        "username": "avolpe",
+        "url": "https://www.gitlab.com/avolpe"
+        }, {
+        "network": "stackoverflow",
+        "username": "avolpe",
+        "url": "https://stackoverflow.com/users/1126380/arturo-volpe"
+        }, {
+        "network": "Linkedin",
+        "username": "Arturo Volpe",
+        "url": "https://www.linkedin.com/in/arturo-volpe-499a5263/"
+        }]
+    },
+    "work": [
+        {
+            "company": "fintech.works",
+            "position": "Fullstack developer",
+            "website": "https://fintech.works",
+            "startDate": "2018-10-01",
+            "summary": "Development of a undisclossed fintech product, work with Java (Spring and Android), javascript (vue), docker, jenkins, and ELK.",
+            "highlights": ["Java (Spring, Q2, Android)", "docker, aws, ELK"]
+        },
+        {
+            "company": "Cosmesoft",
+            "position": "FullStack Developer",
+            "website": "https://www.cosmesoft.com.py",
+            "startDate": "2018-05-01",
+            "summary": "FullStack developer and Software architect, working with Java (Spring and Java EE), Javascript (Typescript, react-native, ionic), jenkins and AWS.",
+            "highlights": ["Java (JavaEE, Spring)", "docker, jenkins", "Javascript (React, Ionic)", "Firebase"]
+        },
+        {
+            "company": "Yodono",
+            "position": "Cofounder",
+            "website": "https://www.yodono.com.py",
+            "startDate": "2018-01-01",
+            "summary": "Crowfounding platform with a high social impact, a sustanaible bussiness model, social commitment, and open to a global reach.  Working in the technological part of the project, including the App (firebase, Ionic), the backend (firebase, typescript) and the comunication with the payment network.",
+            "highlights": ["Javascript (React, Ionic)", "Firebase"]
+        }, {
+        "company": "Centro de Desarrollo Sostenible",
+        "position": "Lead Software Architect",
+        "website": "http://www.cds.com.py",
+        "startDate": "2015-07-01",
+        "summary": "Working with various projects with differente scopes and needs.  In this time I work with:  * Java (Spring and Java EE -wildfly-) * Javascript (Typescript, angular, ionic) * Docker (rancher, aws) * CI/CD (jenkins, aws, ELK)",
+        "highlights": ["Java (JavaEE, Spring)", "docker, jenkins, ELK, rancher", "Javascript (React, Ionic)", "Firebase"],
+        "endDate": "2017-11-01"
+        }, {
+        "company": "Codium S.A.",
+        "position": "IT Consultant",
+        "website": "https://www.codium.com.py",
+        "startDate": "2017-11-01",
+        "summary": "Working with a finantial client in the implementacion of a full CI/CD pipeline using jenkins and docker.",
+        "highlights": ["docker, jenkins"],
+        "endDate": "2018-02-01"
+        },
+        {
+            "company": "Facultad Politécnica UNA",
+            "position": "Assitant teacher",
+            "website": "http://www.pol.una.py",
+            "startDate": "2016-02-01",
+            "summary": "",
+            "highlights": [ "Auxiliar de Enseñanza Remunerado - Algoritmos I",  "Auxiliar de Enseñanza Remunerado - Gestión de Centro de Cómputos"],
+            "endDate": "2016-12-01"
+        }, {
+        "company": "Facultad Politecnica",
+        "position": "Software Architect",
+        "website": "http://www.pol.una.py",
+        "startDate": "2012-10-01",
+        "summary": "",
+        "highlights": ["Spring", "Jenkins"],
+        "endDate": "2015-01-01"
+        },
+        {
+            "company": "Konecta S.A.",
+            "position": "Junior Software Developer",
+            "website": "http://konecta.com.py",
+            "startDate": "2011-09-01",
+            "summary": "",
+            "highlights": ["Java (Android, JavaEE)"],
+            "endDate": "2012-05-01"
+        }
+    ],
+    "education": [
+        {
+            "institution": "Universidad Nacional de Asuncion",
+            "area": "Facultad Politécnica",
+            "studyType": "Software Engineer",
+            "startDate": "2007-12-31",
+            "gpa": "",
+            "courses": [],
+            "endDate": "2012-12-31"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Programming Languages",
+            "keywords": [
+                "Java",
+                "JavaScript",
+                "C#",
+                "Python"
+            ]
+        },
+        {
+            "name": "Backend",
+            "keywords": [
+                "Java EE",
+                "Spring",
+                "ExpressJS"
+            ]
+        },
+        {
+            "name": "Frontend",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "React",
+                "Angular",
+                "Vue"
+            ]
+        },
+        {
+            "name": "Testing",
+            "keywords": [
+                "JUnit",
+                "mocha",
+                "karma"
+            ]
+        },
+        {
+            "name": "Agile Project Management",
+            "keywords": [
+                "Scrum",
+                "Kanban",
+                "YouTrack"
+            ]
+        },
+        {
+            "name": "Storage",
+            "keywords": [
+                "Postgres",
+                "Firestore",
+                "ElasticSearch"
+            ]
+        },
+        {
+            "name": "Operating Systems",
+            "keywords": [
+                "Mac OSX",
+                "Linux"
+            ]
+        },
+        {
+            "name": "Infrastructure",
+            "keywords": [
+                "AWS",
+                "Scaleway",
+                "Docker",
+                "Apache",
+                "nginx",
+                "Tomcat",
+                "Wildfly"
+            ]
+        },
+        {
+            "name": "DevOps",
+            "keywords": [
+                "Jenkins",
+                "Vagrant",
+                "Puppet"
+            ]
+        },
+        {
+            "name": "Version Control",
+            "keywords": [
+                "Git",
+                "SVN"
+            ]
+        }  ],
+        "languages": [
+            {
+                "language": "Español",
+                "fluency": "Native proficiency"
+            },
+            {
+                "language": "Ingles",
+                "fluency": "Professional working proficiency"
+            }
+        ]
+}
