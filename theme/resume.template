@@ -37,7 +37,7 @@
           {{#info.brief}}
           <!-- ABOUT ME -->
           <div class="box">
-            <h2><i class="fa fa-info ico"></i> About me</h2>
+            <h2>About me</h2>
             <p>{{{info.brief}}}</p>
           </div>
           {{/info.brief}}
