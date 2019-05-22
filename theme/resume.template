@@ -37,14 +37,14 @@
           {{#info.brief}}
           <!-- ABOUT ME -->
           <div class="box">
-            <h2><i class="fa fa-user ico"></i> About</h2>
+            <h2><i class="fa fa-info ico"></i> About me</h2>
             <p>{{{info.brief}}}</p>
           </div>
           {{/info.brief}}
           {{#employmentBool}}
           <!-- WORK EXPERIENCE -->
           <div class="box">
-            <h2><i class= "fa fa-suitcase ico"></i> Work Experience</h2>
+            <h2><i class= "fa fa-server ico"></i> Work Experience</h2>
             {{#employment.history}}
               <div class="job clearfix">
                 <div class="row">
@@ -322,7 +322,7 @@
           {{/referencesBool}}
           <!-- Personal Projects -->
           <div class="box">
-            <h2><i class="fa fa-language ico"></i> Personal projects</h2>
+            <h2><i class="fa fa-bars ico"></i> Personal projects</h2>
             <ul class="list-group">
               {{#projects}}
               <li class=" list-group-item">
