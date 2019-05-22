@@ -10,6 +10,7 @@
   "author": "Arturo Volpe <arturo@volpe.com.py>",
   "license": "MIT",
   "dependencies": {
+    "hackmyresume": "^1.9.0-beta",
     "jsonresume-theme-class": "^0.1.2",
     "jsonresume-theme-eloquent": "^4.1.0",
     "jsonresume-theme-kendall": "^0.1.19",

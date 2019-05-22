@@ -1,0 +1,57 @@
+{
+  "_from": "jsonresume-theme-kendall",
+  "_id": "jsonresume-theme-kendall@0.1.19",
+  "_inBundle": false,
+  "_integrity": "sha1-CIuwokGm12tzcqzV7r44xynRedc=",
+  "_location": "/jsonresume-theme-kendall",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "jsonresume-theme-kendall",
+    "name": "jsonresume-theme-kendall",
+    "escapedName": "jsonresume-theme-kendall",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/jsonresume-theme-kendall/-/jsonresume-theme-kendall-0.1.19.tgz",
+  "_shasum": "088bb0a241a6d76b7372acd5eebe38c729d179d7",
+  "_spec": "jsonresume-theme-kendall",
+  "_where": "/Users/arturovolpe/develop/avolpe/cv-json",
+  "author": {
+    "name": "M. Adam Kendall"
+  },
+  "bugs": {
+    "url": "https://github.com/linuxbozo/jsonresume-theme-kendall/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "gravatar": "^1.0.6",
+    "lodash": "^2.4.1",
+    "mustache": "^2.2.1"
+  },
+  "deprecated": false,
+  "description": "A JSON Resume theme built with bootstrap",
+  "homepage": "https://github.com/linuxbozo/jsonresume-theme-kendall",
+  "keywords": [
+    "json",
+    "jsonresume",
+    "theme"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "jsonresume-theme-kendall",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linuxbozo/jsonresume-theme-kendall.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.19"
+}

@@ -1,0 +1,318 @@
+{
+    "name": "Arturo Volpe",
+    "info": {
+        "label": "Software engineer",
+        "image": "https://avolpe.github.io/static/img/avatar.jpg",
+        "brief": "Software engineer with a special taste in System Architecture, DevOps, Continuous Integration/Delivery, fullstack development and OpenSource projects"
+    },
+    "contact": {
+        "email": "arturovolpe@gmail.com",
+        "phone": "+595972105788",
+        "website": "https://www.volpe.com.py"
+    },
+    "meta": {
+        "format": "FRESH@^1.0.0-beta",
+        "modified": "2019-04-17T15:18:54.978Z"
+    },
+    "location": {
+        "city": "Asunción",
+        "region": "PY",
+        "country": "PY",
+        "code": "",
+        "address": ""
+    },
+    "employment": {
+        "history": [
+            {
+                "position": "Fullstack developer",
+                "employer": "fintech.works",
+                "summary": "Development of a undisclosed fintech product, work with Java (Spring and Android), JavaScript (VUE), docker, Jenkins, and ELK.",
+                "current": true,
+                "start": "2018-10-01",
+                "url": "https://fintech.works",
+                "keywords": [],
+                "highlights": [
+                    "Java (Spring, Q2, Android)",
+                    "docker, aws, ELK"
+                ]
+            },
+            {
+                "position": "FullStack Developer",
+                "employer": "Cosmesoft",
+                "summary": "FullStack developer and Software architect, working with Java (Spring and Java EE), Javascript (Typescript, react-native, ionic), jenkins and AWS.",
+                "current": true,
+                "start": "2018-05-01",
+                "url": "https://www.cosmesoft.com.py",
+                "keywords": [],
+                "highlights": [
+                    "Java (JavaEE, Spring)",
+                    "docker, jenkins",
+                    "Javascript (React, Ionic)",
+                    "Firebase"
+                ]
+            },
+            {
+                "position": "Cofounder",
+                "employer": "Yodono",
+                "summary": "Crow founding platform with a high social impact, a sustainable business model, social commitment, and open to a global reach.  Working in the technological part of the project, including the App (firebase, Ionic), the backend (firebase, typescript) and the communication with the payment network.",
+                "current": true,
+                "start": "2018-01-01",
+                "url": "https://www.yodono.com.py",
+                "keywords": [],
+                "highlights": [
+                    "Typescript, JavaScript (React, Ionic)",
+                    "Firebase"
+                ]
+            },
+            {
+                "position": "Lead Software Architect",
+                "employer": "Centro de Desarrollo Sostenible",
+                "summary": "Working with various projects with different scopes and needs.",
+                "start": "2015-07-01",
+                "end": "2017-11-01",
+                "url": "http://www.cds.com.py",
+                "keywords": [],
+                "highlights": [
+                    "Java (Spring and Java EE -wildfly-)",
+                    "JavaScript (Typescript, Angular, Ionic)", 
+                    "docker, ELK, rancher",
+                    "CI/CD (Jenkins, AWS, ELK)",
+                    "Firebase"
+                ]
+            },
+            {
+                "position": "IT Consultant",
+                "employer": "Codium S.A.",
+                "summary": "Working with a financial client in the implementation of a full CI/CD pipeline using Jenkins and docker.",
+                "start": "2017-11-01",
+                "end": "2018-02-01",
+                "url": "https://www.codium.com.py",
+                "keywords": [],
+                "highlights": [
+                    "docker, Jenkins"
+                ]
+            },
+            {
+                "position": "Assistant teacher",
+                "employer": "Facultad Politécnica UNA",
+                "summary": "",
+                "start": "2016-02-01",
+                "end": "2016-12-01",
+                "url": "http://www.pol.una.py",
+                "keywords": [],
+                "highlights": [
+                    "Auxiliar de Enseñanza Remunerado - Algoritmos I",
+                    "Auxiliar de Enseñanza Remunerado - Gestión de Centro de Cómputos"
+                ]
+            },
+            {
+                "position": "Software Architect",
+                "employer": "Facultad Politécnica",
+                "summary": "",
+                "start": "2012-10-01",
+                "end": "2015-01-01",
+                "url": "http://www.pol.una.py",
+                "keywords": [],
+                "highlights": [
+                    "Spring",
+                    "Jenkins"
+                ]
+            },
+            {
+                "position": "Junior Software Developer",
+                "employer": "Konecta S.A.",
+                "summary": "",
+                "start": "2011-09-01",
+                "end": "2012-05-01",
+                "url": "http://konecta.com.py",
+                "keywords": [],
+                "highlights": [
+                    "Java (Android, JavaEE)"
+                ]
+            }
+        ]
+    },
+    "education": {
+        "level": "",
+        "history": [
+            {
+                "institution": "Universidad Nacional de Asuncion",
+                "start": "2007-12-31",
+                "end": "2012-12-31",
+                "grade": "",
+                "curriculum": [],
+                "summary": "",
+                "area": "Facultad Politécnica",
+                "studyType": "Software Engineer"
+            }
+        ]
+    },
+    "skills": {
+        "sets": [
+            {
+                "name": "Programming Languages",
+                "skills": [
+                    "Java",
+                    "JavaScript",
+                    "TypeScript",
+                    "C#",
+                    "Python"
+                ]
+            },
+            {
+                "name": "Backend",
+                "skills": [
+                    "Java EE",
+                    "Spring",
+                    "ExpressJS",
+                    "Firebase functions"
+                ]
+            },
+            {
+                "name": "Frontend",
+                "skills": [
+                    "HTML",
+                    "CSS",
+                    "React",
+                    "Angular",
+                    "Vue"
+                ]
+            },
+            {
+                "name": "Testing",
+                "skills": [
+                    "JUnit",
+                    "mocha",
+                    "karma",
+                    "jest"
+                ]
+            },
+            {
+                "name": "Project Management",
+                "skills": [
+                    "Scrum",
+                    "Kanban",
+                    "Redmine",
+                    "YouTrack"
+                ]
+            },
+            {
+                "name": "Storage",
+                "skills": [
+                    "Postgres",
+                    "sqlite",
+                    "Firestore",
+                    "S3"
+                ]
+            },
+            {
+                "name": "Operating Systems",
+                "skills": [
+                    "Mac OSX",
+                    "Linux",
+                    "Windows"
+                ]
+            },
+            {
+                "name": "Infrastructure",
+                "skills": [
+                    "AWS",
+                    "Scaleway",
+                    "Docker",
+                    "Apache",
+                    "nginx",
+                    "kong",
+                    "Tomcat",
+                    "Wildfly"
+                ]
+            },
+            {
+                "name": "DevOps",
+                "skills": [
+                    "Jenkins",
+                    "Travis",
+                    "gitlabci",
+                    "Vagrant",
+                    "Puppet"
+                ]
+            },
+            {
+                "name": "Version Control",
+                "skills": [
+                    "Git",
+                    "SVN"
+                ]
+            },
+            {
+                "name": "Others",
+                "skills": [
+                    "Unity 3D"
+                ]
+            }
+        ]
+    },
+    "social": [
+        {
+            "label": "github",
+            "network": "github",
+            "url": "https://www.github.com/avolpe",
+            "user": "avolpe"
+        },
+        {
+            "label": "gitlab",
+            "network": "gitlab",
+            "url": "https://www.gitlab.com/avolpe",
+            "user": "avolpe"
+        },
+        {
+            "label": "stackoverflow",
+            "network": "stackoverflow",
+            "url": "https://stackoverflow.com/users/1126380/arturo-volpe",
+            "user": "avolpe"
+        },
+        {
+            "label": "Linkedin",
+            "network": "Linkedin",
+            "url": "https://www.linkedin.com/in/arturo-volpe-499a5263/",
+            "user": "Arturo Volpe"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "fluency": "Native proficiency"
+        },
+        {
+            "language": "Ingles",
+            "fluency": "Professional working proficiency"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Cotizaciones del Paraguay",
+            "description": "Exchange list of various currencies in Paraguay",
+            "keywords": [
+                "TypeScript",
+                "VUE",
+                "Spring boot",
+                "postgresql"
+            ],
+            "startDate": "2015-09",
+            "endDate": "present",
+            "url": "https://cotizaciones.volpe.com.py"
+        },
+        {
+            "name": "List of RUC of Paraguay",
+            "description": "An augmented reality app for Android.",
+            "keywords": [
+                "JavaScript",
+                "React",
+                "express",
+                "sqlite"
+            ],
+            "startDate": "2014-02",
+            "endDate": "2014-04",
+            "url": "http://set.volpe.com.py"
+        }
+    ]
+}

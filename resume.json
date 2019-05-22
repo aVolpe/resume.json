@@ -3,7 +3,7 @@
         "name": "Arturo Volpe",
         "label": "Software engineer",
         "picture": "https://avolpe.github.io/static/img/avatar.jpg",
-        "email": [ "arturovolpe@gmail.com" ],
+        "email": "arturovolpe@gmail.com",
         "phone": "+595972105788",
         "website": "https://www.volpe.com.py",
         "summary": "Software engineer with a special taste in System Architecture, DevOps, Continious Integration/Delivery, fullstack developend and OpenSource projects",
@@ -117,6 +117,7 @@
             "keywords": [
                 "Java",
                 "JavaScript",
+                "TypeScript",
                 "C#",
                 "Python"
             ]
@@ -126,7 +127,8 @@
             "keywords": [
                 "Java EE",
                 "Spring",
-                "ExpressJS"
+                "ExpressJS",
+                "Firebase functions"
             ]
         },
         {
@@ -144,14 +146,16 @@
             "keywords": [
                 "JUnit",
                 "mocha",
-                "karma"
+                "karma",
+                "jest"
             ]
         },
         {
-            "name": "Agile Project Management",
+            "name": "Project Management",
             "keywords": [
                 "Scrum",
                 "Kanban",
+                "Redmine",
                 "YouTrack"
             ]
         },
@@ -159,15 +163,17 @@
             "name": "Storage",
             "keywords": [
                 "Postgres",
+                "sqLite",
                 "Firestore",
-                "ElasticSearch"
+                "S3"
             ]
         },
         {
             "name": "Operating Systems",
             "keywords": [
                 "Mac OSX",
-                "Linux"
+                "Linux",
+                "Windows"
             ]
         },
         {
@@ -178,6 +184,7 @@
                 "Docker",
                 "Apache",
                 "nginx",
+                "kong",
                 "Tomcat",
                 "Wildfly"
             ]
@@ -186,6 +193,8 @@
             "name": "DevOps",
             "keywords": [
                 "Jenkins",
+                "Travis",
+                "gitlabci",
                 "Vagrant",
                 "Puppet"
             ]
@@ -196,15 +205,19 @@
                 "Git",
                 "SVN"
             ]
-        }  ],
-        "languages": [
-            {
-                "language": "Español",
-                "fluency": "Native proficiency"
-            },
-            {
-                "language": "Ingles",
-                "fluency": "Professional working proficiency"
-            }
-        ]
+        }, {
+        "name": "Others",
+        "keywords": [ "Unity 3D" ]
+        }  
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "fluency": "Native proficiency"
+        },
+        {
+            "language": "Ingles",
+            "fluency": "Professional working proficiency"
+        }
+    ]
 }
