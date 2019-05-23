@@ -3,7 +3,7 @@
     "info": {
         "label": "Software engineer",
         "image": "https://avolpe.github.io/static/img/avatar.jpg",
-        "brief": "Software engineer with a special taste in System Architecture, DevOps, Continuous Integration/Delivery, fullstack development and OpenSource projects"
+        "brief": "Software engineer focused in software architecture, devOps, continuous integration/delivery, fullstack development and OpenSource projects"
     },
     "contact": {
         "email": "arturovolpe@gmail.com",
@@ -33,6 +33,7 @@
                 "keywords": [],
                 "highlights": [
                     "Java (Spring, Q2, Android)",
+                    "Javascript (VUE, webpack)",
                     "docker, aws, ELK"
                 ]
             },
@@ -133,16 +134,12 @@
         ]
     },
     "education": {
-        "level": "",
         "history": [
             {
                 "institution": "Universidad Nacional de Asuncion",
                 "start": "2007-12-31",
                 "end": "2012-12-31",
-                "grade": "",
-                "curriculum": [],
-                "summary": "",
-                "area": "Facultad Politécnica",
+                "area": "Thesis Serious games for professional training: A nursery training application",
                 "studyType": "Software Engineer"
             }
         ]

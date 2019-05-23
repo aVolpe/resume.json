@@ -274,3 +274,8 @@ blockquote {
   padding-bottom: 10px;
   border-bottom: 1px solid #eee;
 }
+
+.section-title {
+  padding-left: 10px;
+}
+
