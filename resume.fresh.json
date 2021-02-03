@@ -3,7 +3,7 @@
     "info": {
         "label": "Software engineer",
         "image": "https://avolpe.github.io/static/img/avatar.jpg",
-        "brief": "Software engineer focused in software architecture, devOps, continuous integration/delivery, fullstack development and OpenSource projects"
+        "brief": "Software engineer focused on software architecture, devOps, continuous integration/delivery, full-stack development, and OpenSource projects"
     },
     "contact": {
         "email": "arturovolpe@gmail.com",
@@ -12,7 +12,7 @@
     },
     "meta": {
         "format": "FRESH@^1.0.0-beta",
-        "modified": "2019-04-17T15:18:54.978Z"
+        "modified": "2020-02-01T15:18:54.978Z"
     },
     "location": {
         "city": "Asunción",
@@ -26,43 +26,55 @@
             {
                 "position": "Fullstack developer",
                 "employer": "fintech.works",
-                "summary": "Development of a undisclosed fintech product, work with Java (Spring and Android), JavaScript (VUE), docker, Jenkins, and ELK.",
+                "summary": "Working in a transactional switch using tools of the jPOS project, we use a microservice architecture and we are using Kubernetes for orchestration. <br /> We also developed a mobile wallet that includes modern KYC identification methods like automatic face detection and liveness probe.",
                 "current": true,
                 "start": "2018-10-01",
                 "url": "https://fintech.works",
                 "keywords": [],
                 "highlights": [
-                    "Java (Spring, Q2, Android)",
-                    "Javascript (VUE, webpack)",
-                    "docker, aws, ELK"
+                    "Transactional switch with jPos (jPTS)",
+                    "Mobile wallet with jPOS (jCard), spring, Android, iOS and react",
+                    "CI/CD with kubernetes, docker, aws and jenkins"
+                ]
+            }, {
+                "position": "Main developer and architect",
+                "employer": "Control Ciudadano PY",
+                "summary": "<a href=\"https://controlciudadanopy.org\">ControlCiudadanoPy.org</a> is a transparency portal that unifies various open data sources and provides an interactive portal to explore data about authorities, public employees, and public tenders. <br />The portal is open source (<a href=\"https://github.com/InstIDEA/controlciudadano/\">https://github.com/InstIDEA/controlciudadano/</a>).<br />We use a myriad of open source projects to automatize the recollection of data and make this process as transparent and repeatable as possible. In the ETL part, we use Apache Airflow, and in the frontend, we use React with various libraries.",
+                "current": true,
+                "start": "2020-04-01",
+                "url": "https://controlciudadanopy.org",
+                "keywords": [],
+                "highlights": [
+                    "Data pipelines with airflow, pentaho, tabula, postgres and others",
+                    "Web portal build with react, an API with express and redash",
+                    "CI/CD with docker, github actions and other services like traefik"
                 ]
             },
             {
                 "position": "FullStack Developer",
                 "employer": "Cosmesoft",
-                "summary": "FullStack developer and Software architect, working with Java (Spring and Java EE), Javascript (Typescript, react-native, ionic), jenkins and AWS.",
+                "summary": "FullStack developer and architect, working with Java (Spring and Java EE), Javascript (Typescript, react-native, ionic), jenkins, and AWS.",
                 "current": true,
                 "start": "2018-05-01",
                 "url": "https://www.cosmesoft.com.py",
                 "keywords": [],
                 "highlights": [
-                    "Java (JavaEE, Spring)",
+                    "Java (javaEE, Spring)",
                     "docker, jenkins",
-                    "Javascript (React, Ionic)",
-                    "Firebase"
+                    "javascript (react, ionic)",
+                    "firebase"
                 ]
             },
             {
                 "position": "Cofounder",
                 "employer": "Yodono",
-                "summary": "Crow founding platform with a high social impact, a sustainable business model, social commitment, and open to a global reach.  Working in the technological part of the project, including the App (firebase, Ionic), the backend (firebase, typescript) and the communication with the payment network.",
+                "summary": "Crow founding platform with a high social impact, a sustainable business model, social commitment, and open to a global reach.",
                 "current": true,
                 "start": "2018-01-01",
                 "url": "https://www.yodono.com.py",
                 "keywords": [],
                 "highlights": [
-                    "Typescript, JavaScript (React, Ionic)",
-                    "Firebase"
+                    "App developed with typescript, react and firebase"
                 ]
             },
             {
@@ -71,11 +83,11 @@
                 "summary": "Working with various projects with different scopes and needs.",
                 "start": "2015-07-01",
                 "end": "2017-11-01",
-                "url": "http://www.cds.com.py",
+                "url": "https://www.cds.com.py",
                 "keywords": [],
                 "highlights": [
                     "Java (Spring and Java EE -wildfly-)",
-                    "JavaScript (Typescript, Angular, Ionic)", 
+                    "JavaScript (Typescript, Angular, Ionic)",
                     "docker, ELK, rancher",
                     "CI/CD (Jenkins, AWS, ELK)",
                     "Firebase"
@@ -139,7 +151,7 @@
                 "institution": "Universidad Nacional de Asuncion",
                 "start": "2007-12-31",
                 "end": "2012-12-31",
-                "area": "Thesis Serious games for professional training: A nursery training application",
+                "area": "Thesis: Serious games for professional training: A nursery training application. <a href=\"https://github.com/aVolpe/tesis\">Repo</a> ",
                 "studyType": "Software Engineer"
             }
         ]
@@ -159,6 +171,7 @@
             {
                 "name": "Backend",
                 "skills": [
+                    "jPos",
                     "Java EE",
                     "Spring",
                     "ExpressJS",
@@ -228,9 +241,8 @@
                 "skills": [
                     "Jenkins",
                     "Travis",
-                    "gitlabci",
-                    "Vagrant",
-                    "Puppet"
+                    "github actions",
+                    "gitlabci"
                 ]
             },
             {
@@ -276,11 +288,11 @@
     ],
     "languages": [
         {
-            "language": "Español",
+            "language": "Spanish",
             "fluency": "Native proficiency"
         },
         {
-            "language": "Ingles",
+            "language": "English",
             "fluency": "Professional working proficiency"
         }
     ],

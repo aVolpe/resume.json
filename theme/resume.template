@@ -64,7 +64,7 @@
                     <div class="description">
                       {{{summary}}}
                       {{#boolHighlights}}
-                      <div class="highlights">Tools and frameworks:</div>
+                      <div class="highlights">Tools:</div>
                       <ul class="list-group">
                         {{#highlights}}
                         <li class="list-group-item" >{{{.}}}</li>
@@ -201,7 +201,7 @@
                 <div class="description pull-right">
                   <h3>{{institution}}</h3>
                   {{#studyType}}<p><i class= "fa fa-graduation-cap ico"></i> {{studyType}}</p>{{/studyType}}
-                  <p>{{area}}</p>
+                  {{{area}}}
                   {{#gpa}}
                   <p>
                     GPA: {{gpa}}
