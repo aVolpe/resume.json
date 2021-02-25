@@ -3,7 +3,7 @@
     "info": {
         "label": "Software engineer",
         "image": "https://avolpe.github.io/static/img/avatar.jpg",
-        "brief": "Software engineer focused on software architecture, devOps, continuous integration/delivery, full-stack development, and OpenSource projects"
+        "brief": "Software engineer focused on software architecture, devOps, continuous integration/delivery, full-stack development, OpenSource projects and Government transparency"
     },
     "contact": {
         "email": "arturovolpe@gmail.com",
@@ -46,11 +46,24 @@
                 "keywords": [],
                 "highlights": [
                     "Data pipelines with airflow, pentaho, tabula, postgres and others",
+                    "Data standards like OCDS",
                     "Web portal build with react, an API with express and redash",
                     "CI/CD with docker, github actions and other services like traefik"
                 ]
-            },
-            {
+            },{
+                "position": "Main developer of Presupuestapp",
+                "employer": "CEAMSO",
+                "summary": "Presupuestapp is a mobile app that shows how the Paraguayan Government manages its budget. The app belongs to the Ministry of Finance.\n\nIt's a React Native app with various widgets that is available for <a href=\"https://play.google.com/store/apps/details?id=com.hacienda.presupuestapp&hl=en&gl=US\" target=\"__blank\">android</a> and <a href=\"https://apps.apple.com/py/app/presupuestapp/id1361493044\" target=\"__blank\">iOS</a>. ",
+                "current": true,
+                "start": "2019-04-01",
+                "end": "2020-04-01",
+                "url": "http://www.ceamso.org.py/",
+                "keywords": [],
+                "highlights": [
+                    "React Native",
+                    "Target Android and iOS"
+                ]
+            }, {
                 "position": "FullStack Developer",
                 "employer": "Cosmesoft",
                 "summary": "FullStack developer and architect, working with Java (Spring and Java EE), Javascript (Typescript, react-native, ionic), jenkins, and AWS.",

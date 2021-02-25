@@ -279,3 +279,8 @@ blockquote {
   padding-left: 10px;
 }
 
+
+.address > .url {
+  text-overflow: ellipsis;
+  overflow: hidden;
+}

@@ -50,7 +50,9 @@
                     <div class="row">
                       <div class="col-xs-6 where">{{employer}}</div>
                       <div class="col-xs-6 address" style="text-align: right">
-                        <a href="{{url}}" target= "_blank">{{url}} <i class="fa fa-globe ico"></i></a>
+                          <div class="url">
+                            <a href="{{url}}" target= "_blank">{{url}} <i class="fa fa-globe ico"></i></a>
+                          </div>
                       </div>
                     </div>
                     <div class="row">
